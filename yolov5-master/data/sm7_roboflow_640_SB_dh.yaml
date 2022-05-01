@@ -1,0 +1,9 @@
+names:
+- mask
+- nomask
+- error
+
+nc: 3
+
+train: /home/lab30/data/roboflow_640_SB_dh
+val: /home/lab30/data/roboflow_640_SB_dh

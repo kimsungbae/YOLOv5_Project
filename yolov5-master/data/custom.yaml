@@ -1,0 +1,10 @@
+nc: 2
+names: ['mask', 'no_mask']
+
+
+train: /home/lab25/yolov5_mask/train/
+val: /home/lab25/yolov5_mask/valid/
+
+path: ../datasets/Objects365  # dataset root dir
+train: images/train  # train images (relative to 'path') 1742289 images
+val: images/val

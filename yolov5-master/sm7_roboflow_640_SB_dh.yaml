@@ -1,0 +1,5 @@
+nc: 3
+names: ['mask', 'nomask', 'error']
+
+train: /home/lab30/data/roboflow_640_SB_dh
+val: /home/lab30/data/roboflow_640_SB_dh
